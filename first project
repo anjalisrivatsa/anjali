@@ -1,0 +1,11 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+  clrscr()
+  cout<<"size of char:"<<size of(char)<<"byte"<<endl;
+  cout<<"size of int:"<<size of(int)<<"bytes"<<endl;
+  cout<<"size of float:"<<size of(float)<<"bytes"<<endl;
+  cout<<"size of double:"<<size of(double)<<"bytes"<<endl;
+  getch()
+}  
