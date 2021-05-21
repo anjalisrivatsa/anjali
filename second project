@@ -1,0 +1,12 @@
+#include<iostream.h>
+#imclude<conio.h>
+void main()
+{
+  clrscr();
+  float x,y,res;
+  cout<<"enter the two numbers";
+  cin>>x>>y;
+  res=x*y;
+  cout<<"the product of two numbers is"<<res;
+  getch();
+}  
